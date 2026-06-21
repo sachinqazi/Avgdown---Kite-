@@ -1,0 +1,6 @@
+{
+  "name": "avgdown-backend",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Backend functions for AvgDown — handles Kite Connect login and live quote fetching."
+}
